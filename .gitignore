@@ -1,0 +1,15 @@
+
+# Nim
+nimble.develop
+nimble.paths
+nimbledeps
+
+# Build & Dist
+build
+.buildtool
+dist
+*.exe
+*.dll
+*.csv
+runs/
+bin
