@@ -1,0 +1,13 @@
+id,name,quantity,price,active,date,category,notes
+1,Apple,12,1.25,true,2026-01-01,fruit,fresh
+2,Banana,24,0.75,true,2026-01-02,fruit,"yellow, ripe"
+3,Carrot,36,0.50,false,2026-01-03,vegetable,"keep cool"
+4,Tea,8,4.99,true,2026-01-04,drink,"say ""hello"""
+5,Coffee,16,8.50,true,2026-01-05,drink,
+6,Rice,100,2.20,false,2026-01-06,grain,"large bag"
+7,Bread,4,3.75,true,2026-01-07,bakery,"baked today"
+8,Milk,6,2.99,true,2026-01-08,dairy,"refrigerate"
+9,Cheese,3,6.25,false,2026-01-09,dairy,"aged cheddar"
+10,Water,48,0.99,true,2026-01-10,drink,"still water"
+11,Honey,2,12.00,true,2026-01-11,pantry,"golden syrup"
+12,Salt,5,1.10,false,2026-01-12,pantry,"fine crystals"

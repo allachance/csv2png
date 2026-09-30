@@ -9,6 +9,9 @@ build
 dist
 *.exe
 *.dll
-*.csv
 runs/
 bin
+
+#examples
+png/
+restored/
