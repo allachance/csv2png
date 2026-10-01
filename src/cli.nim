@@ -10,7 +10,7 @@ const usage* = """Usage: csv2png [input.csv|input.png] [-o output]
 
 Convert CSV bytes to RGB pixels in a PNG, or restore the CSV
 from a PNG created by this tool. Windows only.
-With no arguments, open a native file picker.
+With no arguments, select one or more files in a native file picker.
 The default output is beside the input, with the opposite extension.
 Existing output files are never overwritten.
 CSV limit: 512 MiB. PNG input limit: 514 MiB. See README for memory usage.

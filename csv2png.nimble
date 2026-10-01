@@ -1,7 +1,7 @@
 import std/strutils
 
 # Package
-version = "0.1.0"
+version = "0.2.0"
 author = "Alex Lachance"
 description = "Lossless CSV to RGB pixel PNG converter with DEFLATE compression"
 license = "MIT"
